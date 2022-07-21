@@ -1,0 +1,42 @@
+if game.PlaceId == 7899881670 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/rbw4', true))()
+end
+if game.PlaceId == 9734866408 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/basketballsim', true))()
+end
+if game.PlaceId == 8448881160 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/rbw4', true))()
+end
+if game.PlaceId == 7899883270 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/rbw4', true))()
+end
+if game.PlaceId == 9336911238 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/rbw4', true))()
+end
+if game.PlaceId == 292439477 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/pf', true))()
+end
+if game.PlaceId == 8657449735 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/rbw4', true))()
+end
+if game.PlaceId == 7540727946 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/hoopslife', true))()
+end
+if game.PlaceId == 10008443595 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/hoopslife', true))()
+end
+if game.PlaceId == 10008450542 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/hoopslife', true))()
+end
+if game.PlaceId == 7797523964 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/hoopslife', true))()
+end
+if game.PlaceId == 8176832566 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/hoopslife', true))()
+end
+if game.PlaceId == 8049740997 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/hoopslife', true))()
+end
+if game.PlaceId == 7540728600 then 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/glitchxhubv2/main/hoopslife', true))()
+end
